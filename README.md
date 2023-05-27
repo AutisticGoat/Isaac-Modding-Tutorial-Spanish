@@ -1,6 +1,6 @@
 # Tutorial de Modding de Isaac
 
-¡Bienvenidos a la guía de modding de TBOI! This repository serves as a series of tutorials pretaining to Isaac modding.
+¡Bienvenidos a la guía de modding de TBOI! Este repositorio contiene información útil para quienes quieran adentrarse al modding de este juego
 
 # Contenido
 
